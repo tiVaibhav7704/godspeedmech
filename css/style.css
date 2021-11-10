@@ -140,15 +140,16 @@ body{
     height: 39%;
     z-index: -1;
     opacity: 0.3;
+    justify-content: center;
    }
    
 #clients{
-    display: flex;
+    display: inline-flex;
     justify-content: center;
     align-items: center;
 }
 .client-item{
-   padding: 35px;
+   padding: 65px;
 }
 #clients img{
    height: 130px;
