@@ -1,4 +1,10 @@
 /* CSS Reset  */
+body{
+    background-color: rgb(223, 217, 217);
+}
+#car1{
+    border-radius: 2rem;
+}
 *{
     margin: 0;
     padding: 0;
@@ -107,7 +113,7 @@
     padding: 34px;
     margin: 3px 34px;
     border-radius:25px;
-    background: #ffd1d1;
+    background: #a5a1a1;
 }
 #services .box img{
     height: 160px;
